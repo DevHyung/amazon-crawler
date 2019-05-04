@@ -1,0 +1,10 @@
+# chromedriver
+chromedriver.exe
+chromedriver
+
+# Config file
+config.py
+
+# etc
+.idea/
+__pycache__/
