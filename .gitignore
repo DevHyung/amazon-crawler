@@ -1,4 +1,4 @@
-# chromedriver
+# chromedriver windows/mac
 chromedriver.exe
 chromedriver
 
@@ -8,3 +8,7 @@ config.py
 # etc
 .idea/
 __pycache__/
+
+# debug files
+debug.py
+html.txt
